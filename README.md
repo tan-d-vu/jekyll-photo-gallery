@@ -1,6 +1,6 @@
 # jekyll-photo-gallery
 Simple solution to display photos on Jekyll sites
-
+I uploaded this layout because I couldn't find anything good when Googling.
 # Usage
 Step 1: 
   - Clone/ copy both photo_page.html and photoboard.md files
